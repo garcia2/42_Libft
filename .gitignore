@@ -1,0 +1,6 @@
+.vscode
+check.txt
+libft.a
+a.out
+*.deprecated
+objs/
