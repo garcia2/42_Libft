@@ -72,7 +72,7 @@ $(OBJDIR):
 # Création de la bibliothèque
 ${NAME}: 
 		@$(MAKE) ${OBJS} --no-print-directory &
-		@echo -n "Compiling"
+		@echo -n "Compiling ${NAME} "
 		@for i in 1 2 3 4 5; do \
 			sleep 0.35; \
 			echo -n "."; \
