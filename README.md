@@ -26,7 +26,7 @@ To use `libft`, simply clone the repository and compile the library.
 
 ```bash
 git clone https://github.com/garcia2/42_Libft
-cd libft
+cd 42_Libft
 make
 ```
 
