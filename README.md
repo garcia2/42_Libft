@@ -25,7 +25,7 @@ Libft is a custom library written in C, composed of various functions for string
 To use `libft`, simply clone the repository and compile the library.
 
 ```bash
-git clone https://github.com/your-username/libft.git
+git clone https://github.com/garcia2/42_Libft
 cd libft
 make
 ```
